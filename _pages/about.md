@@ -28,11 +28,11 @@ redirect_from:
 
 2、Meta-Learning Based Hyperspectral Target Detection Using Siamese Network，IEEE Transactions on Geoscience and Remote Sensing，2022（第一作者，Top期刊）[[PDF]](../files/Meta-Learning_Based_Hyperspectral_Target_Detection_Using_Siamese_Network.pdf)|[[Code]](https://github.com/YuleiWang1/MLSN)
 
-3、A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion，Remote Sensing，2022（第一作者，SCI一区）
+3、A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion，Remote Sensing，2022（第一作者，SCI一区）[[PDF]](../files/A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion.pdf)
 
-4、The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification，Remote Sensing Letters，2021（第一作者，SCI二区）
+4、The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification，Remote Sensing Letters，2021（第一作者，SCI二区）[[PDF]](../files/The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification.pdf)
 
-5、A Superpixel-Based Dual Window RX for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，2020（通讯作者，SCI一区）
+5、A Superpixel-Based Dual Window RX for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，2020（通讯作者，SCI一区）[[PDF]](../files/A_Superpixel-Based_Dual_Window_RX_for_Hyperspectral_Anomaly_Detection.pdf)
 
 6、Constrained-Target Band Selection for Multiple-Target Detection，IEEE Transactions on Geoscience and Remote Sensing，2019（第一作者， Top期刊）
 
