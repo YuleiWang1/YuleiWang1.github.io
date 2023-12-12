@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Yulei Wang"
   avatar           : "profile.png"
+  email            : "wangyulei@dlmu.edu.cn"
   bio              : "Associate professor at DLMU, Liaoning, China. The main interst is hyperspectral image processing."
   location         : "Dalian，China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "wangyulei@dlmu.edu.cn"
+#  email            : "wangyulei@dlmu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
