@@ -25,7 +25,7 @@ redirect_from:
 
 在国内外学术刊物及会议发表论文50余篇，其中SCI检索20余篇，EI检索30余篇。申请发明专利20余项，授权10项，转化2项。
 
-1、A Hybrid Gray Wolf Optimizer for Hyperspectral Image Band Selection，IEEE Transactions on Geoscience and Remote Sensing，2022（第一作者，Top期刊）
+1、A Hybrid Gray Wolf Optimizer for Hyperspectral Image Band Selection，IEEE Transactions on Geoscience and Remote Sensing，2022（第一作者，Top期刊）[[PDF]](../files/A_Hybrid_Gray_Wolf_Optimizer_for_Hyperspectral_Image_Band_Selection.pdf)
 
 2、Meta-Learning Based Hyperspectral Target Detection Using Siamese Network，IEEE Transactions on Geoscience and Remote Sensing，2022（第一作者，Top期刊）[[PDF]](../files/Meta-Learning_Based_Hyperspectral_Target_Detection_Using_Siamese_Network.pdf)[[Code]](https://github.com/YuleiWang1/MLSN)
 
