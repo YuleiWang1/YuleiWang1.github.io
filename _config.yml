@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yulei Wang"
   avatar           : "profile.png"
-#  email            : "wangyulei@dlmu.edu.cn"
+  email            : "wangyulei@dlmu.edu.cn"
   bio              : "Associate professor at DLMU, Liaoning, China. The main interst is hyperspectral image processing."
   location         : "Dalian，China"
   employer         :
