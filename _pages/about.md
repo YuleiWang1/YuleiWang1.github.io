@@ -24,33 +24,33 @@ redirect_from:
 
 在国内外学术刊物及会议发表论文50余篇，其中SCI检索20余篇，EI检索30余篇。申请发明专利20余项，授权10项，转化2项。
 
-1、A Hybrid Gray Wolf Optimizer for Hyperspectral Image Band Selection，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第一作者，Top期刊） [[PDF]](../files/A_Hybrid_Gray_Wolf_Optimizer_for_Hyperspectral_Image_Band_Selection.pdf)
+1、Self-Supervised Spectral-Level Contrastive Learning for Hyperspectral Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2023**（第一作者，Top期刊）[[PDF]](../files/Self-Supervised_Spectral-Level_Contrastive_Learning_for_Hyperspectral_Target_Detection.pdf)
 
 2、Meta-Learning Based Hyperspectral Target Detection Using Siamese Network，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第一作者，Top期刊） [[PDF]](../files/Meta-Learning_Based_Hyperspectral_Target_Detection_Using_Siamese_Network.pdf) [[Code]](https://github.com/YuleiWang1/MLSN)
 
-3、A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion，Remote Sensing，**2022**（第一作者，SCI一区） [[PDF]](../files/A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion.pdf)
+3、Residual-Driven Band Selection for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，**2022**（第三作者，Top期刊）[[PDF]](../files/Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows.pdf)
 
-4、The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification，Remote Sensing Letters，**2021**（第一作者，SCI二区） [[PDF]](../files/The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification.pdf)
+4、A Hybrid Gray Wolf Optimizer for Hyperspectral Image Band Selection，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第一作者，Top期刊） [[PDF]](../files/A_Hybrid_Gray_Wolf_Optimizer_for_Hyperspectral_Image_Band_Selection.pdf)
 
-5、A Superpixel-Based Dual Window RX for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，**2020**（通讯作者，SCI一区）[[PDF]](../files/A_Superpixel-Based_Dual_Window_RX_for_Hyperspectral_Anomaly_Detection.pdf)
+5、A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion，Remote Sensing，**2022**（第一作者，SCI一区） [[PDF]](../files/A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion.pdf)
 
-6、Constrained-Target Band Selection for Multiple-Target Detection，IEEE Transactions on Geoscience and Remote Sensing，2019（第一作者， Top期刊）
+6、Progressive Band Subset Fusion for Hyperspectral Anomaly Detection，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第四作者，Top期刊）[[PDF]](../files/Progressive_Band_Subset_Fusion_for_Hyperspectral_Anomaly_Detection.pdf)
 
-7、Fusion of Various Band Selection Methods for Hyperspectral Imagery，Remote Sensing，2019（第一作者，SCI一区）
+7、The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification，Remote Sensing Letters，**2021**（第一作者，SCI二区） [[PDF]](../files/The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification.pdf)
 
-8、A Posteriori Hyperspectral Anomaly Detection for Unlabeled Classification，IEEE Transactions on Geoscience and Remote Sensing，2018（第一作者，Top期刊）
+8、Target-Constrained Interference-Minimized Band Selection for Hyperspectral Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2021**（第三作者，Top期刊）[[PDF]](../files/Target-Constrained_Interference-Minimized_Band_Selection_for_Hyperspectral_Target_Detection.pdf)
 
-9、Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows，Remote Sensing，2018（通讯作者，SCI一区）
+9、A Superpixel-Based Dual Window RX for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，**2020**（通讯作者，SCI一区）[[PDF]](../files/A_Superpixel-Based_Dual_Window_RX_for_Hyperspectral_Anomaly_Detection.pdf)
 
-10、基于滑动阵列的高光谱图像非因果实时RXD检测，光子学报，2018（通讯作者，EI）
+10、Constrained-Target Band Selection for Multiple-Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2019**（第一作者， Top期刊）[[PDF]](../files/Constrained-Target Band Selection for Multiple-Target Detection.pdf)
 
-11、Progressive Band Processing of Fast Iterative Pixel Purity Index for Finding Endmembers，IEEE Geoscience and Remote Sensing Letters，2017（通讯作者，SCI一区）
+11、Fusion of Various Band Selection Methods for Hyperspectral Imagery，Remote Sensing，**2019**（第一作者，SCI一区）[[PDF]](../files/Fusion of Various Band Selection Methods for Hyperspectral Imagery.pdf)
 
-12、Residual-Driven Band Selection for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，2022（第三作者，Top期刊）
+12、A Posteriori Hyperspectral Anomaly Detection for Unlabeled Classification，IEEE Transactions on Geoscience and Remote Sensing，**2018**（第一作者，Top期刊）[[PDF]](../files/A_Posteriori_Hyperspectral_Anomaly_Detection_for_Unlabeled_Classification.pdf)
 
-13、Target-Constrained Interference-Minimized Band Selection for Hyperspectral Target Detection，IEEE Transactions on Geoscience and Remote Sensing，2021（第三作者，Top期刊）
+13、Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows，Remote Sensing，**2018**（通讯作者，SCI一区）[[PDF]](../files/Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows.pdf)
 
-14、Progressive Band Subset Fusion for Hyperspectral Anomaly Detection，IEEE Transactions on Geoscience and Remote Sensing，2022（第四作者，Top期刊）
+14、Progressive Band Processing of Fast Iterative Pixel Purity Index for Finding Endmembers，IEEE Geoscience and Remote Sensing Letters，**2017**（通讯作者，SCI一区）[[PDF]](../files/Progressive_Band_Processing_of_Fast_Iterative_Pixel_Purity_Index_for_Finding_Endmembers.pdf)
 
 
 主持科研项目
