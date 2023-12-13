@@ -24,7 +24,7 @@ redirect_from:
 
 在国内外学术刊物及会议发表论文50余篇，其中SCI检索20余篇，EI检索30余篇。申请发明专利20余项，授权10项，转化2项。
 
-14、Self-Supervised Spectral-Level Contrastive Learning for Hyperspectral Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2023**（第一作者，Top期刊）[[PDF]](../files/Self-Supervised_Spectral-Level_Contrastive_Learning_for_Hyperspectral_Target_Detection.pdf)
+14. Self-Supervised Spectral-Level Contrastive Learning for Hyperspectral Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2023**（第一作者，Top期刊）[[PDF]](../files/Self-Supervised_Spectral-Level_Contrastive_Learning_for_Hyperspectral_Target_Detection.pdf)
 
 13、Meta-Learning Based Hyperspectral Target Detection Using Siamese Network，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第一作者，Top期刊） [[PDF]](../files/Meta-Learning_Based_Hyperspectral_Target_Detection_Using_Siamese_Network.pdf) [[Code]](https://github.com/YuleiWang1/MLSN)
 
@@ -53,6 +53,28 @@ redirect_from:
 1、Progressive Band Processing of Fast Iterative Pixel Purity Index for Finding Endmembers，IEEE Geoscience and Remote Sensing Letters，**2017**（通讯作者，SCI一区）[[PDF]](../files/Progressive_Band_Processing_of_Fast_Iterative_Pixel_Purity_Index_for_Finding_Endmembers.pdf)
 
 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[18] <b>Q. Zhang</b>, J. Zhu, Y. Huang, Q. Yuan, and L. Zhang,
+“Beyond being wise after the event: Combining spatial, temporal and spectral information for Himawari-8 early-stage wildfire detection,” 
+<i>International Journal of Applied Earth Observation and Geoinformation (<b>JAG</b>)</i>, 
+vol. 124, 103506, 2023. 
+(<b>SCI Q1 Top, IF=7.5</b>) 
+[<a href= "https://www.sciencedirect.com/science/article/pii/S1569843223003308" target="_blank">Link</a>] 
+[<a href= "./Files/JAG_2023_STSRNN.pdf" target="_blank">PDF</a>]  
+[<a href="./Files/BibTeX.html#zhang2023_STSRNN" target="_blank">BibTeX</a>]
+</span>
+</p> 
+
+
+
+<ol style="list-style: none;">
+  <li>[1] 项目1</li>
+  <li>[2] 项目2</li>
+  <li>[3] 项目3</li>
+</ol>
+
+
 主持科研项目
 ======
 
@@ -60,34 +82,34 @@ redirect_from:
 
 * 主持项目：
 
-1、国家自然科学基金，基于多波段协同处理的高光谱实时目标检测技术研究；
+1. 国家自然科学基金，基于多波段协同处理的高光谱实时目标检测技术研究；
 
-2、中国博士后科学基金面上项目，面向海上搜救的高光谱谱空协同目标识别方法研究；
+2. 中国博士后科学基金面上项目，面向海上搜救的高光谱谱空协同目标识别方法研究；
 
-3、辽宁省自然科学基金，面向海上搜救的无人机高光谱图像超分辨率重建及搜救目标识别；
+3. 辽宁省自然科学基金，面向海上搜救的无人机高光谱图像超分辨率重建及搜救目标识别；
 
-4、国家重点实验室开放基金，深空高光谱图像特征提取及目标检测技术研究
+4. 国家重点实验室开放基金，深空高光谱图像特征提取及目标检测技术研究
 
-5、哈尔滨工业大学科研协作，高光谱异常及遮挡目标检测；
+5. 哈尔滨工业大学科研协作，高光谱异常及遮挡目标检测；
 
-6、四川双利合谱科技有限公司科研协作，Gaia产品系列远程控制app开发；
+6. 四川双利合谱科技有限公司科研协作，Gaia产品系列远程控制app开发；
 
-7、中央高校基本科研业务费专项资金重点团队培育项目，高光谱遥感海上搜救目标定位与识别技术；
+7. 中央高校基本科研业务费专项资金重点团队培育项目，高光谱遥感海上搜救目标定位与识别技术；
 
-8、中央高校基本科研业务费青年教师科技创新项，可见光海洋遥感暗弱尾迹目标图像增强技术；
+8. 中央高校基本科研业务费青年教师科技创新项，可见光海洋遥感暗弱尾迹目标图像增强技术；
 
-9、中央高校基本科研业务费青年教师科技创新项，基于谱空全尺度和目标约束的波段选择方法；
+9. 中央高校基本科研业务费青年教师科技创新项，基于谱空全尺度和目标约束的波段选择方法；
 
-10、中央高校基本科研业务费青年教师科技创新项，高光谱波段融合技术研究；
+10. 中央高校基本科研业务费青年教师科技创新项，高光谱波段融合技术研究；
 
 
 * 参研项目：
 
-1、国家自然科学基金面上项目，基于稀疏表示的高光谱图像目标检测方法研究；
+1. 国家自然科学基金面上项目，基于稀疏表示的高光谱图像目标检测方法研究；
 
-2、国家自然科学基金青年科学基金项目，高光谱图像空间杂光散射校正的相关处理方法研究；
+2. 国家自然科学基金青年科学基金项目，高光谱图像空间杂光散射校正的相关处理方法研究；
 
-3、国家自然科学基金面上项目，基于非线性核映射的高光谱图像异常小目标检测方法研究；
+3. 国家自然科学基金面上项目，基于非线性核映射的高光谱图像异常小目标检测方法研究；
 
 
 科研获奖
