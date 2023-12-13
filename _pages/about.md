@@ -22,57 +22,277 @@ redirect_from:
 
 ***
 
-在国内外学术刊物及会议发表论文50余篇，其中SCI检索20余篇，EI检索30余篇。申请发明专利20余项，授权10项，转化2项。
-
-14. Self-Supervised Spectral-Level Contrastive Learning for Hyperspectral Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2023**（第一作者，Top期刊）[[PDF]](../files/Self-Supervised_Spectral-Level_Contrastive_Learning_for_Hyperspectral_Target_Detection.pdf)
-
-13、Meta-Learning Based Hyperspectral Target Detection Using Siamese Network，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第一作者，Top期刊） [[PDF]](../files/Meta-Learning_Based_Hyperspectral_Target_Detection_Using_Siamese_Network.pdf) [[Code]](https://github.com/YuleiWang1/MLSN)
-
-12、Residual-Driven Band Selection for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，**2022**（第三作者，Top期刊）[[PDF]](../files/Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows.pdf)
-
-11、A Hybrid Gray Wolf Optimizer for Hyperspectral Image Band Selection，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第一作者，Top期刊） [[PDF]](../files/A_Hybrid_Gray_Wolf_Optimizer_for_Hyperspectral_Image_Band_Selection.pdf)
-
-10、A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion，Remote Sensing，**2022**（第一作者，SCI一区） [[PDF]](../files/A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion.pdf)
-
-9、Progressive Band Subset Fusion for Hyperspectral Anomaly Detection，IEEE Transactions on Geoscience and Remote Sensing，**2022**（第四作者，Top期刊）[[PDF]](../files/Progressive_Band_Subset_Fusion_for_Hyperspectral_Anomaly_Detection.pdf)
-
-8、The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification，Remote Sensing Letters，**2021**（第一作者，SCI二区） [[PDF]](../files/The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification.pdf)
-
-7、Target-Constrained Interference-Minimized Band Selection for Hyperspectral Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2021**（第三作者，Top期刊）[[PDF]](../files/Target-Constrained_Interference-Minimized_Band_Selection_for_Hyperspectral_Target_Detection.pdf)
-
-6、A Superpixel-Based Dual Window RX for Hyperspectral Anomaly Detection，IEEE Geoscience and Remote Sensing Letters，**2020**（通讯作者，SCI一区）[[PDF]](../files/A_Superpixel-Based_Dual_Window_RX_for_Hyperspectral_Anomaly_Detection.pdf)
-
-5、Constrained-Target Band Selection for Multiple-Target Detection，IEEE Transactions on Geoscience and Remote Sensing，**2019**（第一作者， Top期刊）[[PDF]](../files/Constrained-Target Band Selection for Multiple-Target Detection.pdf)
-
-4、Fusion of Various Band Selection Methods for Hyperspectral Imagery，Remote Sensing，**2019**（第一作者，SCI一区）[[PDF]](../files/Fusion of Various Band Selection Methods for Hyperspectral Imagery.pdf)
-
-3、A Posteriori Hyperspectral Anomaly Detection for Unlabeled Classification，IEEE Transactions on Geoscience and Remote Sensing，**2018**（第一作者，Top期刊）[[PDF]](../files/A_Posteriori_Hyperspectral_Anomaly_Detection_for_Unlabeled_Classification.pdf)
-
-2、Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows，Remote Sensing，**2018**（通讯作者，SCI一区）[[PDF]](../files/Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows.pdf)
-
-1、Progressive Band Processing of Fast Iterative Pixel Purity Index for Finding Endmembers，IEEE Geoscience and Remote Sensing Letters，**2017**（通讯作者，SCI一区）[[PDF]](../files/Progressive_Band_Processing_of_Fast_Iterative_Pixel_Purity_Index_for_Finding_Endmembers.pdf)
-
-
-
+<p><b>Journals</b>: (* denotes the Corresponding Author)</p>
 <p style="text-indent: -2rem;margin-left: 0rem;">
-<span>[18] <b>Q. Zhang</b>, J. Zhu, Y. Huang, Q. Yuan, and L. Zhang,
-“Beyond being wise after the event: Combining spatial, temporal and spectral information for Himawari-8 early-stage wildfire detection,” 
-<i>International Journal of Applied Earth Observation and Geoinformation (<b>JAG</b>)</i>, 
-vol. 124, 103506, 2023. 
-(<b>SCI Q1 Top, IF=7.5</b>) 
-[<a href= "https://www.sciencedirect.com/science/article/pii/S1569843223003308" target="_blank">Link</a>] 
-[<a href= "./Files/JAG_2023_STSRNN.pdf" target="_blank">PDF</a>]  
-[<a href="./Files/BibTeX.html#zhang2023_STSRNN" target="_blank">BibTeX</a>]
+<span>[27] <b>Y. Wang</b>, X. Chen, E. Zhao* and M. Song,
+"Self-Supervised Spectral-Level Contrastive Learning for Hyperspectral Target Detection," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 61, pp. 1-15, <font color="blue">2023</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Self-Supervised_Spectral-Level_Contrastive_Learning_for_Hyperspectral_Target_Detection.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
 
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[26] T. Yang, M. Song, S. Li and <b>Y. Wang*</b>,
+"Spectral–Spatial Anti-Interference NMF for Hyperspectral Unmixing," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 61, pp. 1-17, <font color="blue">2023</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/SpectralSpatial_Anti-Interference_NMF_for_Hyperspectral_Unmixing.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
 
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[25] <b>Y. Wang</b>, X. Chen, F. Wang, M. Song* and C. Yu, 
+"Meta-Learning Based Hyperspectral Target Detection Using Siamese Network,"
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 60, pp. 1-13, <font color="blue">2022</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Meta-Learning_Based_Hyperspectral_Target_Detection_Using_Siamese_Network.pdf" target="_blank">PDF</a>] 
+[<a href= "https://github.com/YuleiWang1/MLSN" target="_blank">Code</a>] 
+</span>
+</p> 
 
-<ol style="list-style: none;">
-  <li>[1] 项目1</li>
-  <li>[2] 项目2</li>
-  <li>[3] 项目3</li>
-</ol>
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[24] C. Yu, J. Huang, M. Song*, <b>Y. Wang</b> and C. -I. Chang,
+"Edge-Inferring Graph Neural Network With Dynamic Task-Guided Self-Diagnosis for Few-Shot Hyperspectral Image Classification," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 60, pp. 1-13, <font color="blue">2022</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Edge-Inferring_Graph_Neural_Network_With_Dynamic_Task-Guided_Self-Diagnosis_for_Few-Shot_Hyperspectral_Image_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[23] X. Shang, M. Song*, <b>Y. Wang</b> and H. Yu, 
+"Residual-Driven Band Selection for Hyperspectral Anomaly Detection," 
+<i>IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i>, 
+vol. 19, pp. 1-5, <font color="blue">2022</font>. 
+(<b>SCI Q2, IF=4.8</b>) 
+[<a href= "../files/Residual-Driven_Band_Selection_for_Hyperspectral_Anomaly_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[22] E. Zhao, C. Gao*, Q. Han, Y. Yao, <b>Y. Wang</b>, C. Yu and H. Yu
+"An Operational Land Surface Temperature Retrieval Methodology for Chinese Second-Generation Huanjing Disaster Monitoring Satellite Data," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 15, pp. 1283-1292, <font color="blue">2022</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/An_Operational_Land_Surface_Temperature_Retrieval_Methodology_for_Chinese_Second-Generation_Huanjing_Disaster_Monitoring_Satellite_Data.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[21] <b>Y. Wang</b>, Q. Zhu, H. Ma and H. Yu*,
+"A Hybrid Gray Wolf Optimizer for Hyperspectral Image Band Selection,"
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 60, pp. 1-13, <font color="blue">2022</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/A_Hybrid_Gray_Wolf_Optimizer_for_Hyperspectral_Image_Band_Selection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[20] F. Li, M. Song*, C. Yu, <b>Y. Wang</b> and C. -I. Chang, 
+"Progressive Band Subset Fusion for Hyperspectral Anomaly Detection,"
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 60, pp. 1-24, <font color="blue">2022</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Progressive_Band_Subset_Fusion_for_Hyperspectral_Anomaly_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[19] <b>Y. Wang</b>, Q. Zhu, Y. Shi and M. Song*,
+"A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion,"
+<i>Remote Sensing (<b>RS</b>)</i>, 
+vol. 13, no. 24, 4967, <font color="blue">2021</font>. 
+(<b>SCI Q2, IF=5</b>) 
+[<a href= "../files/A Spatial-Enhanced LSE-SFIM Algorithm for Hyperspectral and Multispectral Images Fusion.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[18] H. Yu, Z. Xu, <b>Y. Wang*</b>, T. Jiao and Q. Guo,
+"The Use of KPCA Over Subspaces for Cross-scale Superpixel based Hyperspectral Image Classification,"
+<i>Remote Sensing Letters(<b>RSL</b>)</i>, 
+vol. 12, no. 5, 470-477, <font color="blue">2021</font>. 
+(<b>SCI Q3, IF=2.3</b>) 
+[<a href= "../files/The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[17] X. Shang, M. Song*, <b>Y. Wang</b>, C. Yu, H. Yu, F. Li,  and C. -I. Chang,
+"Target-Constrained Interference-Minimized Band Selection for Hyperspectral Target Detection," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 59, pp. 6044-6064, <font color="blue">2021</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Target-Constrained_Interference-Minimized_Band_Selection_for_Hyperspectral_Target_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[16] L. Ren, L. Zhao and <b>Y. Wang*</b>, 
+"A Superpixel-Based Dual Window RX for Hyperspectral Anomaly Detection," 
+<i>IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i>, 
+vol. 17, pp. 1233-1237, <font color="blue">2020</font>. 
+(<b>SCI Q2, IF=4.8</b>) 
+[<a href= "../files/A_Superpixel-Based_Dual_Window_RX_for_Hyperspectral_Anomaly_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[15] M. Song, X. Shang*, <b>Y. Wang</b>, C. Yu and C. -I. Chang,
+"Class Information-Based Band Selection for Hyperspectral Image Classification," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 57, pp. 8394-8416, <font color="blue">2019</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Class_Information-Based_Band_Selection_for_Hyperspectral_Image_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[14] C. Yu, M. Zhao, M. Song*, <b>Y. Wang</b>, F. Li, R. Han and C. -I. Chang
+"Hyperspectral Image Classification Method Based on CNN Architecture Embedding With Hashing Semantic Feature," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 12, pp. 1866-1881, <font color="blue">2019</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[13] <b>Y. Wang</b>, L. Wang*, C. Yu, E. Zhao, M. Song, C. -H. Wen and C. -I. Chang,
+"Constrained-Target Band Selection for Multiple-Target Detection," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 57, pp. 6079-6103, <font color="blue">2019</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Constrained-Target Band Selection for Multiple-Target Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[12] C. Yu, <b>Y. Wang</b>, M. Song* and C. -I. Chang,,
+"Class Signature-Constrained Background- Suppressed Approach to Band Selection for Classification of Hyperspectral Images," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 57, pp. 14-31, <font color="blue">2019</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Class_Signature-Constrained_Background-_Suppressed_Approach_to_Band_Selection_for_Classification_of_Hyperspectral_Images.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[11] <b>Y. Wang</b>, L. Wang*, H. Xie and Chein-I. Chang,
+"Fusion of Various Band Selection Methods for Hyperspectral Imagery,"
+<i>Remote Sensing (<b>RS</b>)</i>, 
+vol. 11, no. 18, 2125, <font color="blue">2019</font>. 
+(<b>SCI Q2, IF=5</b>) 
+[<a href= "../files/Fusion of Various Band Selection Methods for Hyperspectral Imagery.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[10] C. Yu, B. Xue*, M. Song, <b>Y. Wang</b>, S. Li and C. -I. Chang
+"Iterative Target-Constrained Interference-Minimized Classifier for Hyperspectral Classification," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 11, pp. 1095-1117, <font color="blue">2018</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/Iterative_Target-Constrained_Interference-Minimized_Classifier_for_Hyperspectral_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[9] <b>Y. Wang</b>, L. -C. Lee, B. Xue, L. Wang, M. Song*, C. Yu, S. Li and C. -I. Chang,
+"A Posteriori Hyperspectral Anomaly Detection for Unlabeled Classification," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 56, pp. 3091-3106, <font color="blue">2018</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/A_Posteriori_Hyperspectral_Anomaly_Detection_for_Unlabeled_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[8] L. Zhao, W. Lin, <b>Y. Wang*</b> and X. Li,
+"Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows,"
+<i>Remote Sensing (<b>RS</b>)</i>, 
+vol. 10, no. 1, 103, <font color="blue">2018</font>. 
+(<b>SCI Q2, IF=5</b>) 
+[<a href= "../files/Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[7] B. Xue, C. Yu*, <b>Y. Wang</b>, M. Song, S. Li, L. Wang, H. -M. Chen and C. -I. Chang,
+"A Subpixel Target Detection Approach to Hyperspectral Image Classification," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 55, pp. 5093-5114, <font color="blue">2017</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/A_Subpixel_Target_Detection_Approach_to_Hyperspectral_Image_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[6] C. -I. Chang, Y. Li and  <b>Y. Wang*</b>, 
+"Progressive Band Processing of Fast Iterative Pixel Purity Index for Finding Endmembers," 
+<i>IEEE Geoscience and Remote Sensing Letters (<b>GRSL</b>)</i>, 
+vol. 14, pp. 1464-1468, <font color="blue">2017</font>. 
+(<b>SCI Q2, IF=4.8</b>) 
+[<a href= "../files/Progressive_Band_Processing_of_Fast_Iterative_Pixel_Purity_Index_for_Finding_Endmembers.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[5] L. Wang, C. -I. Chang*, L. -C. Lee,  <b>Y. Wang</b>, B. Xue, M. Song, C. Yu and S. Li,
+"Band Subset Selection for Anomaly Detection in Hyperspectral Imagery," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 55, pp. 4887-4898, <font color="blue">2017</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Band_Subset_Selection_for_Anomaly_Detection_in_Hyperspectral_Imagery.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[4] C. -I. Chang, <b>Y. Wang</b> and S. -Y. Chen*,
+"Anomaly Detection Using Causal Sliding Windows," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 8, pp. 3260-3270, <font color="blue">2015</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/Anomaly_Detection_Using_Causal_Sliding_Windows.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[3] C. -I. Chang, R. C. Schultz, M. C. Hobbs, S. -Y. Chen, <b>Y. Wang</b> and C. Liu*,
+"Progressive Band Processing of Constrained Energy Minimization for Subpixel Detection," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 53, pp. 1626-1637, <font color="blue">2015</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Progressive_Band_Processing_of_Constrained_Energy_Minimization_for_Subpixel_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[2] C. Zhao*, <b>Y. Wang*</b>, B. Qi, and J. Wang,
+"Global and Local Real-Time Anomaly Detectors for Hyperspectral Remote Sensing Imagery,"
+<i>Remote Sensing (<b>RS</b>)</i>, 
+vol. 7, no. 4, 3966-3985, <font color="blue">2015</font>. 
+(<b>SCI Q2, IF=5</b>) 
+[<a href= "../files/Global and Local Real-Time Anomaly Detectors for Hyperspectral Remote Sensing Imagery.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[1] S. -Y. Chen, <b>Y. Wang</b>, C. -C. Wu, C. Liu* and C. -I. Chang, 
+"Real-time causal processing of anomaly detection for hyperspectral imagery," 
+<i>IEEE Transactions on Aerospace and Electronic Systems (<b>TAES</b>)</i>, 
+vol. 50, pp. 1511-1534, <font color="blue">2014</font>. 
+(<b>SCI Q1, IF=4.4</b>) 
+[<a href= "../files/Real-time_causal_processing_of_anomaly_detection_for_hyperspectral_imagery.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
 
 
 主持科研项目
