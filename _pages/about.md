@@ -53,16 +53,16 @@ vol. 21, pp. 1-5, <font color="blue">2024</font>.
 [<a href= "../files/Frequency-Temporal_Attention_Network_for_Remote_Sensing_Imagery_Change_Detection.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
-
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[33] Y. Yang, <b>Y. Wang*</b>, H. Wang, L. Zhang*, E. Zhao, M. Song and C. Yu, 
-"Tucker Decomposition-Based Network Compression for Anomaly Detection With Large-Scale Hyperspectral Images," 
+"Spectral-Enhanced Sparse Transformer Network for Hyperspectral Super-Resolution Reconstruction," 
 <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
 vol. 17, pp. 17278-17291, <font color="blue">2024</font>. 
 (<b>SCI Q1, IF=5.5</b>) 
 [<a href= "../files/Spectral-Enhanced_Sparse_Transformer_Network_for_Hyperspectral_Super-Resolution_Reconstruction.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[32] 	C. Yu, Y. Zhu*, M. Song, <b>Y. Wang</b> and Q. Zhang,
