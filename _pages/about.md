@@ -172,8 +172,6 @@ vol. 15, pp. 1283-1292, <font color="blue">2022</font>.
 [<a href= "../files/An_Operational_Land_Surface_Temperature_Retrieval_Methodology_for_Chinese_Second-Generation_Huanjing_Disaster_Monitoring_Satellite_Data.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
-
-
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[21] <b>Y. Wang</b>, Q. Zhu, H. Ma and H. Yu*,
 "A Hybrid Gray Wolf Optimizer for Hyperspectral Image Band Selection,"
@@ -383,6 +381,8 @@ vol. 50, pp. 1511-1534, <font color="blue">2014</font>.
 [<a href= "../files/Real-time_causal_processing_of_anomaly_detection_for_hyperspectral_imagery.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
+
 主持科研项目
 ======
 
