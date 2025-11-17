@@ -25,6 +25,26 @@ redirect_from:
 <p><b>Journals</b>: (* denotes the Corresponding Author)</p>
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[43] E. Zhao, H. Zhang, N. Qu, <b>Y. Wang*</b> and Y. Zhao,
+" KDAD: Knowledge Distillation-Based Anomaly Detection for Thermal Infrared Hyperspectral Image," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 18, pp. 26515-26529, <font color="blue">2025</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/KDAD_Knowledge_Distillation-Based_Anomaly_Detection_for_Thermal_Infrared_Hyperspectral_Image.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[42] C. Yu, X. Zhao, <b>Y. Wang</b> and X. Lu,
+"Novel Class Discovery for Hyperspectral Image via Class-Relation Perceptive Distillation With Prototype-Level Clustering Prediction," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 63, pp. 1-16, <font color="blue">2025</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Novel_Class_Discovery_for_Hyperspectral_Image_via_Class-Relation_Perceptive_Distillation_With_Prototype-Level_Clustering_Prediction.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
     <span>[41] <b>Y. Wang</b>, C. Deng, H. Wang, E. Zhao and Q. Lan,
 "Deep spectral metric learning with Siamese network for hyperspectral target detection," 
 <i>Infrared Physics & Technology (<b>IPT</b>)</i>, 
@@ -33,6 +53,7 @@ vol. 150, pp. 1-15, <font color="blue">2025</font>.
 [<a href= "../files/1-s2.0-S1350449525003494-main.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
     <span>[40] E. Zhao, N. Qu, <b>Y. Wang*</b> and C. Gao,
