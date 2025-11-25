@@ -457,7 +457,7 @@ vol. 50, pp. 1511-1534, <font color="blue">2014</font>.
 [<a href= "../files/Real-time_causal_processing_of_anomaly_detection_for_hyperspectral_imagery.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
----
+
 
 <p><b>Conferences</b>:
 
