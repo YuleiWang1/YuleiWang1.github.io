@@ -457,7 +457,119 @@ vol. 50, pp. 1511-1534, <font color="blue">2014</font>.
 [<a href= "../files/Real-time_causal_processing_of_anomaly_detection_for_hyperspectral_imagery.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+---
 
+<p><b>Conferences</b>:
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[11] <b>Y. Wang</b>, H. Wang, Y. Yang, E. Zhao, M. Song, and C. Yu,
+"Hyperspectral Target Detection Based on One-Dimensional Generative Adversarial Network," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2023</b>)</i>, 
+ pp. 7364-7367, <font color="blue">2023</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Hyperspectral_Target_Detection_Based_on_One-Dimensional_Generative_Adversarial_Network.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[10] Y. Yang, <b>Y. Wang</b>, E. Zhao, M. Song, and Q. Zhang,
+"A Swin Transformer Based Fusion Approach for Hyperspectral Image Super-Resolution," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2023</b>)</i>, 
+ pp. 7372–7375, <font color="blue">2023</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/A_Swin_Transformer-Based_Fusion_Approach_for_Hyperspectral_Image_Super-Resolution.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[9] H. Zeng, <b>Y. Wang</b>, H. Yu, M. Song, E. Zhao, and T. Tao,
+"Hybrid Densely Connected Network for Multi-Exposure Image Fusion," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2023</b>)</i>, 
+ pp. 6807-6810, <font color="blue">2023</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Hybrid_Densely_Connected_Network_for_Multi-Exposure_Image_Fusion.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[8] H. Ma, <b>Y. Wang</b>, L. Jiang, M. Song, C. Yu, and E. Zhao,
+"Multi-Scale Fusion Maximum Entropy Subspace Clustering for Hyperspectral Band Selection," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2022</b>)</i>, 
+ pp. 779-782, <font color="blue">2022</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Multi-Scale_Fusion_Maximum_Entropy_Subspace_Clustering_for_Hyperspectral_Band_Selection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[7] X. Chen, <b>Y. Wang</b>, Z. Che, L. Zhu, M. Song, and H. Yu,
+"Contrastive Learning for Hyperspectral Target Detection," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2022</b>)</i>, 
+ pp. 887-890, <font color="blue">2022</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Contrastive_Learning_for_Hyperspectral_Target_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[6] <b>Y. Wang</b>, X. He, Y. Shi, Q. Zhu, and H. Yu,
+"An Improved Hyperspectral Image Super Resolution Restoration Algorithm Based on POCS," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2021</b>)</i>, 
+ pp. 2460-2463, <font color="blue">2021</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/An_Improved_Hyperspectral_Image_Super_Resolution_Restoration_Algorithm_Based_on_POCS.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[5] <b>Y. Wang</b>, M. Liu, X. Chen, E. Zhao, 
+"Ghost-Free Fusion of Multi-Exposure Images in the Global Gradient Region Under Patch Alignment," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2021</b>)</i>, 
+ pp. 5441-5444, <font color="blue">2021</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Ghost-Free_Fusion_of_Multi-Exposure_Images_in_the_Global_Gradient_Region_Under_Patch_Alignment.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[4] <b>Y. Wang</b>, F. Wang, Q. Zhu, M. Song, and C. Yu, 
+"Transferred Tensor Decomposition-Based Deep Learning for Hyperspectral Anomaly Detection," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2021</b>)</i>, 
+ pp. 5279-5282, <font color="blue">2021</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Transferred_Tensor_Decomposition-Based_Deep_Learning_for_Hyperspectral_Anomaly_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[3] Q. Zhu, <b>Y. Wang</b>, F. Wang, M. Song, and C. -I. Chang, 
+"Hyperspectral Band Selection Based on Improved Affinity Propagation," 
+<i>Proceedings of the 2021 11th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (<b>WHISPERS</b>)</i>, 
+ pp. 1-4, <font color="blue">2021</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Hyperspectral Band Selection Based on Improved Affinity Propagation.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[2] <b>Y. Wang</b>, B. Xue, L. Wang, H. Li, L. Lee, and C. Yu, 
+"Iterative Anomaly Detection," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2017</b>)</i>, 
+ pp. 586-589, <font color="blue">2017</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Iterative_anomaly_detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[1] <b>Y. Wang</b>, C. Zhao, and C. -I. Chang, 
+"Anomaly Detection Using Sliding Causal Windows," 
+<i>Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (<b>IGARSS 2014</b>)</i>, 
+ pp. 4600-4603, <font color="blue">2014</font>. 
+(<b>EI收录</b>) 
+[<a href= "../files/Anomaly_detection_using_sliding_causal_windows.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
 
 主持科研项目
 ======
