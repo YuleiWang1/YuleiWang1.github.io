@@ -22,7 +22,182 @@ redirect_from:
 
 ***
 
-<p><b>Journals</b>: (* denotes the Corresponding Author)</p>
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[43] E. Zhao, H. Zhang, N. Qu, <b>Y. Wang*</b> and Y. Zhao,
+" KDAD: Knowledge Distillation-Based Anomaly Detection for Thermal Infrared Hyperspectral Image," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 18, pp. 26515-26529, <font color="blue">2025</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/KDAD_Knowledge_Distillation-Based_Anomaly_Detection_for_Thermal_Infrared_Hyperspectral_Image.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[42] C. Yu, X. Zhao, <b>Y. Wang</b> and X. Lu,
+"Novel Class Discovery for Hyperspectral Image via Class-Relation Perceptive Distillation With Prototype-Level Clustering Prediction," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 63, pp. 1-16, <font color="blue">2025</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Novel_Class_Discovery_for_Hyperspectral_Image_via_Class-Relation_Perceptive_Distillation_With_Prototype-Level_Clustering_Prediction.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[41] <b>Y. Wang</b>, C. Deng, H. Wang, E. Zhao and Q. Lan,
+"Deep spectral metric learning with Siamese network for hyperspectral target detection," 
+<i>Infrared Physics & Technology (<b>IPT</b>)</i>, 
+vol. 150, pp. 1-15, <font color="blue">2025</font>. 
+(<b>SCI Q3, IF=3.1</b>) 
+[<a href= "../files/1-s2.0-S1350449525003494-main.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[40] E. Zhao, N. Qu, <b>Y. Wang*</b> and C. Gao,
+"TEBS: Temperature–Emissivity–Driven band selection for thermal infrared hyperspectral image classification with structured State-Space model and gated attention," 
+<i>International Journal of Applied Earth Observation and Geoinformation (<b>JAG</b>)</i>, 
+vol. 142, pp. 1-14, <font color="blue">2025</font>. 
+(<b>SCI Q1, IF=8.6</b>) 
+[<a href= "../files/1-s2.0-S1569843225003577-main.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[39] C. Yu, C. Yu, F. Zhou, <b>Y. Wang*</b> and Q. Zhang,
+"En-Decoded Index Guided Edge Refinement Network for Change Detection of Remote Sensing Image," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 18, pp. 18875-18889, <font color="blue">2025</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/En-Decoded_Index_Guided_Edge_Refinement_Network_for_Change_Detection_of_Remote_Sensing_Image.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[38] C. Yu, Y. Zhu, <b>Y. Wang*</b>, E. Zhao, Q. Zhang and X. Lu,
+"Concern With Center-Pixel Labeling: Center-Specific Perception Transformer Network for Hyperspectral Image Classification," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 63, pp. 1-14, <font color="blue">2025</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Concern_With_Center-Pixel_Labeling_Center-Specific_Perception_Transformer_Network_for_Hyperspectral_Image_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[37] E. Zhao, Y. Su, N. Qu, <b>Y. Wang*</b>, C. Gao and J. Zeng,
+"Self- and Cross-Attention Enhanced Transformer for Visible and Thermal Infrared Hyperspectral Image Classification," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 18, pp. 13408-13422, <font color="blue">2025</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/Self-_and_Cross-Attention_Enhanced_Transformer_for_Visible_and_Thermal_Infrared_Hyperspectral_Image_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[36] H. Wang, <b>Y. Wang*</b>, Y. Yang, J. Zeng* and E. Zhao,
+"Breaking dimensional barriers in hyperspectral target detection: Atrous convolution with Gramian Angular field representations," 
+<i>Infrared Physics & Technology (<b>IPT</b>)</i>, 
+vol. 143, pp. 1-14, <font color="blue">2024</font>. 
+(<b>SCI Q3, IF=3.1</b>) 
+[<a href= "../files/Breaking dimensional barriers in hyperspectral target detection Atrous convolution with Gramian Angular field representations.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[35] E. Zhao, N. Qu, <b>Y. Wang*</b> and C. Gao,
+"Spectral Reconstruction from Thermal Infrared Multispectral Image Using Convolutional Neural Network and Transformer Joint Network," 
+<i>Remote Sensing (<b>RS</b>)</i>, 
+vol. 16, no. 7, 1284, <font color="blue">2024</font>. 
+(<b>SCI Q2, IF=5</b>) 
+[<a href= "../files/Spectral Reconstruction from Thermal Infrared Multispectral Image Using Convolutional Neural Network and Transformer Joint Network.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[34] C. Yu, H. Li, Y. Hu, Q. Zhang*, M. Song and <b>Y. Wang</b>,
+"Frequency-Temporal Attention Network for Remote Sensing Imagery Change Detection,"
+<i>Remote Sensing Letters(<b>RSL</b>)</i>, 
+vol. 21, pp. 1-5, <font color="blue">2024</font>. 
+(<b>SCI Q3, IF=2.3</b>) 
+[<a href= "../files/Frequency-Temporal_Attention_Network_for_Remote_Sensing_Imagery_Change_Detection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[33] Y. Yang, <b>Y. Wang*</b>, H. Wang, L. Zhang*, E. Zhao, M. Song and C. Yu, 
+"Spectral-Enhanced Sparse Transformer Network for Hyperspectral Super-Resolution Reconstruction," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 17, pp. 17278-17291, <font color="blue">2024</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/Spectral-Enhanced_Sparse_Transformer_Network_for_Hyperspectral_Super-Resolution_Reconstruction.pdf" target="_blank">PDF</a>] 
+[<a href= "https://github.com/YuleiWang1/SEST" target="_blank">Code</a>] 
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[32] 	C. Yu, Y. Zhu*, M. Song, <b>Y. Wang</b> and Q. Zhang,
+"Unseen Feature Extraction: Spatial Mapping Expansion With Spectral Compression Network for Hyperspectral Image Classification," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 62, pp. 1-15, <font color="blue">2024</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Unseen_Feature_Extraction_Spatial_Mapping_Expansion_With_Spectral_Compression_Network_for_Hyperspectral_Image_Classification.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[31] <b>Y. Wang</b>, H. Wang, E. Zhao*, M. Song and C. Zhao, 
+"Tucker Decomposition-Based Network Compression for Anomaly Detection With Large-Scale Hyperspectral Images," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 17, pp. 10674-10689, <font color="blue">2024</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/Tucker_Decomposition-Based_Network_Compression_for_Anomaly_Detection_With_Large-Scale_Hyperspectral_Images.pdf" target="_blank">PDF</a>]  
+[<a href= "https://github.com/YuleiWang1/TD-CNND" target="_blank">Code</a>] 
+</span>
+</p> 
+
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[30] <b>Y. Wang</b>, X. Chen*, E. Zhao, C. Zhao, M. Song and C. Yu, 
+"An Unsupervised Momentum Contrastive Learning Based Transformer Network for Hyperspectral Target Detection," 
+<i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
+vol. 17, pp. 9053-9068, <font color="blue">2024</font>. 
+(<b>SCI Q1, IF=5.5</b>) 
+[<a href= "../files/An_Unsupervised_Momentum_Contrastive_Learning_Based_Transformer_Network_for_Hyperspectral_Target_Detection.pdf" target="_blank">PDF</a>]
+[<a href= "https://github.com/YuleiWang1/MCLT" target="_blank">Code</a>] 
+</span>
+</p> 
+
+
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[29] E. Zhao, N. Qu, <b>Y. Wang*</b>, C. Gao*, S. Duan, J. Zeng and Q. Zhang,
+"Thermal Infrared Hyperspectral Band Selection via Graph Neural Network for Land Surface Temperature Retrieval," 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>TGRS</b>)</i>, 
+vol. 62, pp. 1-14, <font color="blue">2024</font>. 
+(<b>SCI Q1 Top, IF=8.2</b>) 
+[<a href= "../files/Thermal_Infrared_Hyperspectral_Band_Selection_via_Graph_Neural_Network_for_Land_Surface_Temperature_Retrieval.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+<p style="text-indent: -2rem;margin-left: 0rem;">
+<span>[28] <b>Y. Wang</b>, H. Ma, Y. Yang, E. Zhao*, M. Song and C. Yu,
+"Self-Supervised Deep Multi-Level Representation Learning Fusion-Based Maximum Entropy Subspace Clustering for Hyperspectral Band Selection," 
+<i>Remote Sensing (<b>RS</b>)</i>, 
+vol. 16, no. 2, 224, <font color="blue">2024</font>. 
+(<b>SCI Q2, IF=5</b>) 
+[<a href= "../files/Self-Supervised Deep Multi-Level Representation Learning Fusion-Based Maximum Entropy Subspace Clustering for Hyperspectral Band Selection.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
+
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[27] <b>Y. Wang</b>, X. Chen, E. Zhao* and M. Song,
 "Self-Supervised Spectral-Level Contrastive Learning for Hyperspectral Target Detection," 
@@ -30,8 +205,11 @@ redirect_from:
 vol. 61, pp. 1-15, <font color="blue">2023</font>. 
 (<b>SCI Q1 Top, IF=8.2</b>) 
 [<a href= "../files/Self-Supervised_Spectral-Level_Contrastive_Learning_for_Hyperspectral_Target_Detection.pdf" target="_blank">PDF</a>]  
+[<a href= "https://github.com/YuleiWang1/SCLHTD" target="_blank">Code</a>] 
 </span>
 </p> 
+
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[26] T. Yang, M. Song, S. Li and <b>Y. Wang*</b>,
@@ -42,7 +220,6 @@ vol. 61, pp. 1-17, <font color="blue">2023</font>.
 [<a href= "../files/SpectralSpatial_Anti-Interference_NMF_for_Hyperspectral_Unmixing.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
-
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[25] <b>Y. Wang</b>, X. Chen, F. Wang, M. Song* and C. Yu, 
 "Meta-Learning Based Hyperspectral Target Detection Using Siamese Network,"
@@ -53,7 +230,6 @@ vol. 60, pp. 1-13, <font color="blue">2022</font>.
 [<a href= "https://github.com/YuleiWang1/MLSN" target="_blank">Code</a>] 
 </span>
 </p> 
-
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[24] C. Yu, J. Huang, M. Song*, <b>Y. Wang</b> and C. -I. Chang,
 "Edge-Inferring Graph Neural Network With Dynamic Task-Guided Self-Diagnosis for Few-Shot Hyperspectral Image Classification," 
@@ -63,6 +239,7 @@ vol. 60, pp. 1-13, <font color="blue">2022</font>.
 [<a href= "../files/Edge-Inferring_Graph_Neural_Network_With_Dynamic_Task-Guided_Self-Diagnosis_for_Few-Shot_Hyperspectral_Image_Classification.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[23] X. Shang, M. Song*, <b>Y. Wang</b> and H. Yu, 
@@ -74,8 +251,9 @@ vol. 19, pp. 1-5, <font color="blue">2022</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
-<span>[22] E. Zhao, C. Gao*, Q. Han, Y. Yao, <b>Y. Wang</b>, C. Yu and H. Yu
+<span>[22] E. Zhao, C. Gao*, Q. Han, Y. Yao, <b>Y. Wang</b>, C. Yu and H. Yu,
 "An Operational Land Surface Temperature Retrieval Methodology for Chinese Second-Generation Huanjing Disaster Monitoring Satellite Data," 
 <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (<b>J-STARS</b>)</i>, 
 vol. 15, pp. 1283-1292, <font color="blue">2022</font>. 
@@ -83,6 +261,7 @@ vol. 15, pp. 1283-1292, <font color="blue">2022</font>.
 [<a href= "../files/An_Operational_Land_Surface_Temperature_Retrieval_Methodology_for_Chinese_Second-Generation_Huanjing_Disaster_Monitoring_Satellite_Data.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[21] <b>Y. Wang</b>, Q. Zhu, H. Ma and H. Yu*,
@@ -94,6 +273,7 @@ vol. 60, pp. 1-13, <font color="blue">2022</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[20] F. Li, M. Song*, C. Yu, <b>Y. Wang</b> and C. -I. Chang, 
 "Progressive Band Subset Fusion for Hyperspectral Anomaly Detection,"
@@ -103,6 +283,7 @@ vol. 60, pp. 1-24, <font color="blue">2022</font>.
 [<a href= "../files/Progressive_Band_Subset_Fusion_for_Hyperspectral_Anomaly_Detection.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[19] <b>Y. Wang</b>, Q. Zhu, Y. Shi and M. Song*,
@@ -114,6 +295,7 @@ vol. 13, no. 24, 4967, <font color="blue">2021</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[18] H. Yu, Z. Xu, <b>Y. Wang*</b>, T. Jiao and Q. Guo,
 "The Use of KPCA Over Subspaces for Cross-scale Superpixel based Hyperspectral Image Classification,"
@@ -123,6 +305,7 @@ vol. 12, no. 5, 470-477, <font color="blue">2021</font>.
 [<a href= "../files/The use of KPCA over subspaces for cross-scale superpixel based hyperspectral image classification.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[17] X. Shang, M. Song*, <b>Y. Wang</b>, C. Yu, H. Yu, F. Li,  and C. -I. Chang,
@@ -134,6 +317,7 @@ vol. 59, pp. 6044-6064, <font color="blue">2021</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[16] L. Ren, L. Zhao and <b>Y. Wang*</b>, 
 "A Superpixel-Based Dual Window RX for Hyperspectral Anomaly Detection," 
@@ -143,6 +327,7 @@ vol. 17, pp. 1233-1237, <font color="blue">2020</font>.
 [<a href= "../files/A_Superpixel-Based_Dual_Window_RX_for_Hyperspectral_Anomaly_Detection.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[15] M. Song, X. Shang*, <b>Y. Wang</b>, C. Yu and C. -I. Chang,
@@ -154,6 +339,7 @@ vol. 57, pp. 8394-8416, <font color="blue">2019</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[14] C. Yu, M. Zhao, M. Song*, <b>Y. Wang</b>, F. Li, R. Han and C. -I. Chang
 "Hyperspectral Image Classification Method Based on CNN Architecture Embedding With Hashing Semantic Feature," 
@@ -163,6 +349,7 @@ vol. 12, pp. 1866-1881, <font color="blue">2019</font>.
 [<a href= "../files/Hyperspectral_Image_Classification_Method_Based_on_CNN_Architecture_Embedding_With_Hashing_Semantic_Feature.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[13] <b>Y. Wang</b>, L. Wang*, C. Yu, E. Zhao, M. Song, C. -H. Wen and C. -I. Chang,
@@ -174,6 +361,7 @@ vol. 57, pp. 6079-6103, <font color="blue">2019</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[12] C. Yu, <b>Y. Wang</b>, M. Song* and C. -I. Chang,,
 "Class Signature-Constrained Background- Suppressed Approach to Band Selection for Classification of Hyperspectral Images," 
@@ -183,6 +371,7 @@ vol. 57, pp. 14-31, <font color="blue">2019</font>.
 [<a href= "../files/Class_Signature-Constrained_Background-_Suppressed_Approach_to_Band_Selection_for_Classification_of_Hyperspectral_Images.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[11] <b>Y. Wang</b>, L. Wang*, H. Xie and Chein-I. Chang,
@@ -194,6 +383,7 @@ vol. 11, no. 18, 2125, <font color="blue">2019</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[10] C. Yu, B. Xue*, M. Song, <b>Y. Wang</b>, S. Li and C. -I. Chang
 "Iterative Target-Constrained Interference-Minimized Classifier for Hyperspectral Classification," 
@@ -203,6 +393,7 @@ vol. 11, pp. 1095-1117, <font color="blue">2018</font>.
 [<a href= "../files/Iterative_Target-Constrained_Interference-Minimized_Classifier_for_Hyperspectral_Classification.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[9] <b>Y. Wang</b>, L. -C. Lee, B. Xue, L. Wang, M. Song*, C. Yu, S. Li and C. -I. Chang,
@@ -214,6 +405,7 @@ vol. 56, pp. 3091-3106, <font color="blue">2018</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[8] L. Zhao, W. Lin, <b>Y. Wang*</b> and X. Li,
 "Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows,"
@@ -223,6 +415,7 @@ vol. 10, no. 1, 103, <font color="blue">2018</font>.
 [<a href= "../files/Recursive Local Summation of RX Detection for Hyperspectral Image Using Sliding Windows.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[7] B. Xue, C. Yu*, <b>Y. Wang</b>, M. Song, S. Li, L. Wang, H. -M. Chen and C. -I. Chang,
@@ -234,6 +427,7 @@ vol. 55, pp. 5093-5114, <font color="blue">2017</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[6] C. -I. Chang, Y. Li and  <b>Y. Wang*</b>, 
 "Progressive Band Processing of Fast Iterative Pixel Purity Index for Finding Endmembers," 
@@ -243,6 +437,7 @@ vol. 14, pp. 1464-1468, <font color="blue">2017</font>.
 [<a href= "../files/Progressive_Band_Processing_of_Fast_Iterative_Pixel_Purity_Index_for_Finding_Endmembers.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[5] L. Wang, C. -I. Chang*, L. -C. Lee,  <b>Y. Wang</b>, B. Xue, M. Song, C. Yu and S. Li,
@@ -254,6 +449,7 @@ vol. 55, pp. 4887-4898, <font color="blue">2017</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[4] C. -I. Chang, <b>Y. Wang</b> and S. -Y. Chen*,
 "Anomaly Detection Using Causal Sliding Windows," 
@@ -263,6 +459,7 @@ vol. 8, pp. 3260-3270, <font color="blue">2015</font>.
 [<a href= "../files/Anomaly_Detection_Using_Causal_Sliding_Windows.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[3] C. -I. Chang, R. C. Schultz, M. C. Hobbs, S. -Y. Chen, <b>Y. Wang</b> and C. Liu*,
@@ -274,6 +471,7 @@ vol. 53, pp. 1626-1637, <font color="blue">2015</font>.
 </span>
 </p> 
 
+
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[2] C. Zhao*, <b>Y. Wang*</b>, B. Qi, and J. Wang,
 "Global and Local Real-Time Anomaly Detectors for Hyperspectral Remote Sensing Imagery,"
@@ -283,6 +481,7 @@ vol. 7, no. 4, 3966-3985, <font color="blue">2015</font>.
 [<a href= "../files/Global and Local Real-Time Anomaly Detectors for Hyperspectral Remote Sensing Imagery.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[1] S. -Y. Chen, <b>Y. Wang</b>, C. -C. Wu, C. Liu* and C. -I. Chang, 
@@ -297,6 +496,8 @@ vol. 50, pp. 1511-1534, <font color="blue">2014</font>.
 
 
 
+
+<p><b>Conferences</b>:
 <p style="text-indent: -2rem;margin-left: 0rem;">
 <span>[10] Y. Yang, <b>Y. Wang</b>, E. Zhao, M. Song, and Q. Zhang,
 "A Swin Transformer Based Fusion Approach for Hyperspectral Image Super-Resolution," 
@@ -306,6 +507,7 @@ vol. 50, pp. 1511-1534, <font color="blue">2014</font>.
 [<a href= "../files/A_Swin_Transformer-Based_Fusion_Approach_for_Hyperspectral_Image_Super-Resolution.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
