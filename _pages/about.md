@@ -20,6 +20,15 @@ redirect_from:
 
 <h2>代表性论文</h2>
 <hr>
+<p style="text-indent: -2rem;margin-left: 0rem;">
+    <span>[44] Y. Yang, Y. Wang, X. Xu and E. Zhao,
+" Butterfly Residual Network: A Hybrid Approach With Spectral Transformers and Depth-Wise Convolutions for Hyperspectral Image Super-Resolution," 
+<i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>, 
+doi: 10.1109/TNNLS.2025.3631243, <font color="blue">2025</font>. 
+(<b>SCI Q1, IF=8.9</b>) 
+[<a href= "../files/Butterfly_Residual_Network_A_Hybrid_Approach_With_Spectral_Transformers_and_Depth-Wise_Convolutions_for_Hyperspectral_Image_Super-Resolution.pdf" target="_blank">PDF</a>]  
+</span>
+</p> 
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
     <span>[43] E. Zhao, H. Zhang, N. Qu, <b>Y. Wang*</b> and Y. Zhao,
@@ -30,6 +39,7 @@ vol. 18, pp. 26515-26529, <font color="blue">2025</font>.
 [<a href= "../files/KDAD_Knowledge_Distillation-Based_Anomaly_Detection_for_Thermal_Infrared_Hyperspectral_Image.pdf" target="_blank">PDF</a>]  
 </span>
 </p> 
+
 
 <p style="text-indent: -2rem;margin-left: 0rem;">
     <span>[42] C. Yu, X. Zhao, <b>Y. Wang</b> and X. Lu,
